@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.result{
+    display: flex;
+    min-height: 10vh;
+    width: 80%;
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    
+}
+ul  {
+    width: 50%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+h2{
+    margin-left: 20px;
+}
